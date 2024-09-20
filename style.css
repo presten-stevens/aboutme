@@ -1,0 +1,45 @@
+th, td {
+    border:1px solid black;
+    padding: 3px;
+    border-spacing: 3px;
+}
+th{
+    font-family: "Lucida Handwriting";
+    font-weight: bold;
+}
+div { 
+    margin: 40px;
+    padding-left: 5px;
+    background-color: rgb(133, 133, 134);
+}
+table{
+    border:1px solid black;
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+body {
+    font-family: "Lucida Handwriting", "Courier New", monospace;
+    font-size: 12pt;
+
+    margin: 20px;
+    background-image: url("jays.jpg");
+}
+p {
+    text-indent: 30px;
+}
+h1 {
+    font-size: 60px;
+    text-decoration: underline;
+    margin-top: 45px;
+    margin-bottom: 20px;
+}
+img {
+    float: right;
+}
+h2 {
+    font-size: 24px;
+    margin-top: 18px;
+    margin-bottom: 8px;
+}
